@@ -1,0 +1,1549 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3def4f9b9791e4ac309c3241680dc3ee, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier:
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: App_Name
+      TermType: 0
+      Languages:
+      - Melon Maker
+      - 멜론 메이커
+      - 甜瓜機
+      - 甜瓜机
+      - メロンメーカー
+      - Melon Maker
+      - Melon Maker
+      - Melon Maker
+      - Melon Maker
+      - Melon Maker
+      - Melon Maker
+      - ผู้ทำเมล่อน
+      - Melon Maker
+      - Melon Maker
+      - Melon Maker
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_00
+      TermType: 0
+      Languages:
+      - Kids
+      - 어린 아이
+      - 孩子
+      - 孩子
+      - 子供
+      - Kind
+      - Niño
+      - Enfants
+      - Дети
+      - Anak-anak
+      - أطفال
+      - เด็กๆ
+      - Crianças
+      - Çocuklar
+      - Bambini
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_01
+      TermType: 0
+      Languages:
+      - My Dream is
+      - 내 꿈은 말이지
+      - 我的夢想是
+      - 我的梦想是
+      - 私の夢は
+      - Mein Traum ist
+      - Mi sueño es
+      - Mon rêve est
+      - Моя мечта
+      - Mimpiku adalah
+      - حلمي هو
+      - ความฝันของฉันคือ
+      - Meu sonho é
+      - Benim hayalim
+      - Il mio sogno è
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_02
+      TermType: 0
+      Languages:
+      - BGM Forest
+      - 브금의 숲
+      - BGM 森林
+      - BGM 森林
+      - 音楽の森
+      - BGM-Wald
+      - Bosque musical
+      - Forêt BGM
+      - Фоновая музыка Лес
+      - Hutan BGM
+      - غابة بي جي إم
+      - บีจีเอ็ม ฟอเรสต์
+      - Floresta BGM
+      - BGM Ormanı
+      - Foresta di BGM
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_03
+      TermType: 0
+      Languages:
+      - Spring Step
+      - 봄 걸음
+      - 春天散步
+      - 春天散步
+      - 春散歩
+      - Frühlingsschritt
+      - Paso de primavera
+      - Étape de printemps
+      - Весенний шаг
+      - Langkah Musim Semi
+      - خطوة الربيع
+      - ขั้นตอนฤดูใบไม้ผลิ
+      - Passo Primavera
+      - Bahar Adımı
+      - Passo di primavera
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_04
+      TermType: 0
+      Languages:
+      - Step by Step
+      - 한걸음 한걸음
+      - 一步步
+      - 一步步
+      - 一歩づつ
+      - Schritt für Schritt
+      - Paso a paso
+      - Pas à pas
+      - Шаг за шагом
+      - Selangkah demi selangkah
+      - خطوة بخطوة
+      - เป็นขั้นเป็นตอน
+      - Passo a passo
+      - Adım adım
+      - Passo dopo passo
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_05
+      TermType: 0
+      Languages:
+      - Like a Puppy
+      - 강아지같아
+      - 像小狗一樣
+      - 像小狗一样
+      - 犬のように
+      - Wie ein Welpe
+      - Como un cachorro
+      - Comme un chiot
+      - Как щенок
+      - Seperti Anak Anjing
+      - مثل الجرو
+      - เหมือนลูกสุนัข
+      - Como um cachorrinho
+      - Köpek yavrusu gibi
+      - Come un cucciolo
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_06
+      TermType: 0
+      Languages:
+      - Let's play together
+      - 놀러 가는 길
+      - 我們一起玩吧
+      - 我们一起玩吧
+      - 遊び道
+      - Lass uns spielen
+      - Vamos a jugar
+      - Jouons ensemble
+      - Давай поиграем
+      - Mari Bermain bersama
+      - لنلعب معا
+      - มาเล่นด้วยกัน
+      - Vamos jogar juntos
+      - Haydi birlikte oynayalım
+      - Giochiamo insieme
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_07
+      TermType: 0
+      Languages:
+      - Clean and Refreshing
+      - 뽀송뽀송
+      - 柔軟蓬鬆
+      - 柔软蓬松
+      - ふわふわ
+      - Sauber und erfrischend
+      - Limpio y refrescante
+      - Propre et rafraîchissant
+      - Чистый и освежающий
+      - Bersih dan Menyegarkan
+      - نظيفة ومنتعشة
+      - สะอาดและสดชื่น
+      - Limpo e refrescante
+      - Temiz ve Ferahlatıcı
+      - Pulito e rinfrescante
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_08
+      TermType: 0
+      Languages:
+      - Shy Little Girl
+      - 수줍은 소녀
+      - 害羞的小女孩
+      - 害羞的小女孩
+      - 内気な子
+      - Schüchternes Mädchen
+      - Chica tímida
+      - Petite fille timide
+      - Застенчивая маленькая девочка
+      - Gadis Kecil Pemalu
+      - فتاة صغيرة خجولة
+      - สาวน้อยขี้อาย
+      - Menina tímida
+      - Utangaç Küçük Kız
+      - Bambina timida
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_09
+      TermType: 0
+      Languages:
+      - Waddle
+      - 뒤뚱뒤뚱
+      - 搖搖晃晃
+      - 摇摇晃晃
+      - よちよち
+      - Watscheln
+      - Anadear
+      - Se dandiner
+      - Уоддл
+      - Goyangan
+      - تهادى
+      - เดินเตาะแตะ
+      - Waddle
+      - paytak paytak yürümek
+      - Ondeggia
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_10
+      TermType: 0
+      Languages:
+      - Piece of Cake
+      - 식은죽먹기
+      - 小菜一碟
+      - 小菜一碟
+      - 朝飯前
+      - Stück Kuchen
+      - Pedazo de pastel
+      - Part de gâteau
+      - Кусок пирога
+      - Sepotong kue
+      - قطعة من الكعك
+      - ชิ้นส่วนของเค้ก
+      - Pedaco de bolo
+      - Kekin parçası
+      - Pezzo di torta
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_11
+      TermType: 0
+      Languages:
+      - Ready to Nap
+      - 낮잠 잘 준비
+      - 準備小睡
+      - 准备小睡
+      - 昼寝
+      - Bereit zum Nickerchen
+      - Listo para la siesta
+      - Prêt à faire la sieste
+      - Готов вздремнуть
+      - Siap untuk Tidur Siang
+      - جاهز للقيلولة
+      - พร้อมงีบแล้ว
+      - Pronto para tirar uma soneca
+      - Kestirmeye hazır
+      - Pronti per il pisolino
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_12
+      TermType: 0
+      Languages:
+      - The Walking Puppy
+      - 강아지 발걸음
+      - 行走的小狗
+      - 行走的小狗
+      - 犬と散歩
+      - Der wandelnde Welpe
+      - El cachorro que camina
+      - Le chiot qui marche
+      - Ходячий щенок
+      - Anak Anjing Berjalan
+      - الجرو المشي
+      - ลูกสุนัขเดินได้
+      - O cachorrinho ambulante
+      - Yürüyen Köpek Yavrusu
+      - Il cucciolo che cammina
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Bgm_13
+      TermType: 0
+      Languages:
+      - The Walking Cat
+      - 고양이 발걸음
+      - 行走的貓
+      - 行走的猫
+      - 猫と散歩
+      - Die wandelnde Katze
+      - El gato andante
+      - Le chat qui marche
+      - Ходячий кот
+      - Kucing Berjalan
+      - القطة السائرة
+      - แมวเดินได้
+      - O gato ambulante
+      - Yürüyen Kedi
+      - Il gatto che cammina
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: FONT Green
+      TermType: 6
+      Languages:
+      - FontEN SDF - Green
+      - FontEN SDF - Green
+      - NotoSansTC SDF - Green
+      - NotoSansSC SDF - Green
+      - LightNovelPOP SDF - Green
+      - COMIC SDF - Green
+      - COMIC SDF - Green
+      - COMIC SDF - Green
+      - COMIC SDF - Green
+      - FontEN SDF - Green
+      - NotoSansArabic SDF - Green
+      - Pridi-Regular SDF - Green
+      - COMIC SDF - Green
+      - COMIC SDF - Green
+      - COMIC SDF - Green
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: FONT Normal
+      TermType: 9
+      Languages:
+      - FontEN SDF
+      - FontEN SDF
+      - NotoSansTC SDF
+      - NotoSansSC SDF
+      - LightNovelPOP SDF
+      - COMIC SDF
+      - COMIC SDF
+      - COMIC SDF
+      - COMIC SDF
+      - FontEN SDF
+      - NotoSansArabic SDF
+      - Pridi-Regular SDF
+      - COMIC SDF
+      - COMIC SDF
+      - COMIC SDF
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: FONT Outline
+      TermType: 6
+      Languages:
+      - FontEN SDF - Outline
+      - FontEN SDF - Outline
+      - NotoSansTC SDF - Outline
+      - NotoSansSC SDF - Outline
+      - LightNovelPOP SDF - Outline
+      - COMIC SDF - Outline
+      - COMIC SDF - Outline
+      - COMIC SDF - Outline
+      - COMIC SDF - Outline
+      - FontEN SDF - Outline
+      - NotoSansArabic SDF - Outline
+      - Pridi-Regular SDF - Outline
+      - COMIC SDF - Outline
+      - COMIC SDF - Outline
+      - COMIC SDF - Outline
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Achive
+      TermType: 0
+      Languages:
+      - Archievement
+      - 업적
+      - 成就
+      - 成就
+      - 業績
+      - Erreichung
+      - Logros
+      - Réalisation
+      - Достижения
+      - Prestasi
+      - الإنجاز
+      - ผลสัมฤทธิ์
+      - Conquistas
+      - Arşiv
+      - Archivio
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_ArchiveHelp
+      TermType: 0
+      Languages:
+      - You Can Check the Number of Fruits You Made!
+      - 내가 만든 과일의 갯수를 확인할 수 있어요!
+      - 您可以檢查您製作的水果數量！
+      - 您可以检查您制作的水果数量！
+      - 作ったフルーツの数が確認できます！
+      - Sie können die Anzahl der von Ihnen hergestellten Früchte überprüfen!
+      - ¡Puedes verificar la cantidad de frutas que hiciste!
+      - Vous pouvez vérifier le nombre de fruits que vous avez préparés !
+      - Вы можете проверить количество фруктов, которые вы приготовили!
+      - Anda Dapat Memeriksa Jumlah Buah yang Anda Buat!
+      - يمكنك التحقق من عدد الفواكه التي صنعتها!
+      - คุณสามารถตรวจสอบจำนวนผลไม้ที่คุณผลิตได้!
+      - Você pode verificar o número de frutas que você fez!
+      - Yaptığınız Meyve Sayısını Kontrol Edebilirsiniz!
+      - Puoi controllare il numero di frutti che hai prodotto!
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_GameOver
+      TermType: 0
+      Languages:
+      - Game Over
+      - 게임 오버
+      - 遊戲結束
+      - 游戏结束
+      - ゲームオーバー
+      - GAME OVER
+      - JUEGO TERMINADO
+      - JEU TERMINÉ
+      - ИГРА ЗАКОНЧЕНА
+      - GAME OVER
+      - انتهت اللعبة
+      - จบเกม
+      - FIM DE JOGO
+      - OYUN BİTTİ
+      - GAME OVER
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_HighScore
+      TermType: 0
+      Languages:
+      - High Score
+      - 최고 점수
+      - 高分數
+      - 高分
+      - 最高スコア
+      - Highscore
+      - Puntuación más alta
+      - Score élevé
+      - Рекорд
+      - Skor Tinggi
+      - درجة عالية
+      - คะแนนสูง
+      - Pontuação alta
+      - Yüksek Puan
+      - Punteggio alto
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Language
+      TermType: 0
+      Languages:
+      - English
+      - 한국어
+      - 中文繁體
+      - 中文简体
+      - 日本語
+      - Deutsch
+      - Español
+      - Français
+      - русский язык
+      - Indonesia
+      - ةيبرعلا
+      - ภาษาไทย
+      - Português
+      - Türkçe
+      - Italiano
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Language_Set
+      TermType: 0
+      Languages:
+      - Language
+      - 언어 설정
+      - 語言設定
+      - 语言设置
+      - 言語設定
+      - Sprache
+      - Idioma
+      - Langue
+      - Язык
+      - Bahasa
+      - لغة
+      - ตั้งค่าภาษา
+      - Idioma
+      - Dil Ayarları
+      - Impostazione della lingua
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_LastChance
+      TermType: 0
+      Languages:
+      - Last Chance
+      - 마지막 기회
+      - 最後的機會
+      - 最后的机会
+      - 最後のチャンス
+      - Letzte Chance
+      - Descripción del artículo
+      - Dernière chance
+      - Последний шанс
+      - Kesempatan Terakhir
+      - آخر فرصة
+      - โอกาสสุดท้าย
+      - Última chance
+      - Son Şans
+      - Ultima possibilità
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Log
+      TermType: 0
+      Languages:
+      - Record
+      - 기록
+      - 記錄
+      - 记录
+      - 記録
+      - Rekord
+      - Récord
+      - 'Record '
+      - Запись
+      - Merekam
+      - سِجِلّ
+      - บันทึก
+      - Registro
+      - Kayıt
+      - Record
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Music
+      TermType: 0
+      Languages:
+      - Music
+      - 음악
+      - 音樂
+      - 音乐
+      - ミュージック
+      - musik
+      - Música
+      - Musique
+      - музыка
+      - Musik
+      - موسيقية
+      - เพลงประกอบ
+      - Música
+      - Müziği
+      - Musica
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_NoAds
+      TermType: 0
+      Languages:
+      - Remove Ads
+      - 광고제거
+      - 移除廣告
+      - 移除广告
+      - 広告削除
+      - Anzeigen entfernen
+      - Quitar anuncios
+      - Supprimer la pub
+      - Убрать рекламу
+      - Hilangkan iklan
+      - إزالة الإعلانات
+      - ลบโฆษณา
+      - Remover propagandas
+      - reklamları kaldırmak
+      - rimuovere gli annunci
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_NoAds_Warning
+      TermType: 0
+      Languages:
+      - Ad rewards for free items will not be removed.
+      - 보상형 광고는 제거되지 않습니다.
+      - 免費物品的廣告獎勵不會刪除。
+      - 免费物品的广告奖励不会删除。
+      - リワード広告は削除されません。
+      - Anzeigen Belohnungen für kostenlose Artikel werden nicht entfernt.
+      - No se eliminarán las recompensas publicitarias por artículos gratuitos.
+      - Les récompenses publicitaires pour les articles gratuits ne seront pas supprimées.
+      - Рекламные награды за бесплатные предметы не будут удалены.
+      - Hadiah iklan untuk item gratis tidak akan dihapus.
+      - لن تتم إزالة المكافآت الإعلانية العناصر المجانية.
+      - รางวัลโฆษณาสำหรับสินค้าฟรีจะไม่ถูกลบออก
+      - Recompensas de anúncios para itens gratuitos não serão removidas.
+      - Ücretsiz öğeler için reklam ödülleri kaldırılmayacaktır.
+      - I premi pubblicitari per gli articoli gratuiti non verranno rimossi.
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_NoThanks
+      TermType: 0
+      Languages:
+      - No thanks
+      - 괜찮아요
+      - 不，謝謝
+      - 不，谢谢
+      - いいえ、受け取らない
+      - Nein danke
+      - No, gracias
+      - Non merci
+      - Нет, спасибо
+      - Tidak, Terima Kasih
+      - ًلا شكرا
+      - ไม่เป็นไรขอบคุณ
+      - Não, obrigado
+      - Hayır, teşekkürler
+      - No grazie
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Rank
+      TermType: 0
+      Languages:
+      - Rank
+      - 순위
+      - 排名
+      - 排名
+      - ランキング
+      - Rang
+      - Rango
+      - Rang
+      - Рейтинг
+      - Peringkat
+      - الترتيب
+      - ระดับ
+      - Classificação
+      - Derece
+      - Grado
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_RankArchive
+      TermType: 0
+      Languages:
+      - "Make Watermelon And\nChallenge To First Place!"
+      - "수박을 만들고\n1등에 도전하세요!"
+      - "製作西瓜並\n挑戰第一名！ "
+      - "制作西瓜并\n挑战第一名！"
+      - "スイカを作って\n1位に挑戦してみよう！"
+      - "Wassermelone0 Zubereiten Und\nHerausforderung Um Den Ersten Platz!"
+      - "¡Haz sandía y \ndesafía al primer lugar!"
+      - "Faire de la pastèque ET un \ndéfiez la première place !"
+      - "Приготовление Арбуза И\nВызов На Первое Место!"
+      - "Membuat Semangka Dan\nTantangan Untuk Tempat Pertama!"
+      - "اصنع البطيخ و\nتحدي المركز الأول!"
+      - "ทำแตงโมและ\r\nท้าทายสู่อันดับหนึ่ง!"
+      - "Faça melancia e\nDesafio ao primeiro lugar!"
+      - "Karpuz Yap Ve\nBirinciliğe Meydan Okuyun!"
+      - "Fare l'anguria e\nSfida al primo posto!"
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_RankScore
+      TermType: 0
+      Languages:
+      - "With The Best Play\nChallenge To First Place!"
+      - "최고의 플레이로\n1등에 도전하세요!"
+      - "以最佳發揮\n挑戰第一名！ "
+      - "以最佳发挥\n挑战第一名！"
+      - "最高のプレイで\n1位に挑戦してみよう！"
+      - "Mit Dem Besten Spiel\nHerausforderung Um Den Ersten Platz!"
+      - "¡Con la mejor jugada,\ndesafía al primer lugar!"
+      - "Avec le meilleur jouer\ndéfiez la première place !"
+      - "С Лучшей Игрой\nВызов На Первое Место!"
+      - "Dengan Terbaik Bermain\nTantangan Untuk Tempat Pertama!"
+      - "مع أفضل مسرحية\nتحدي المركز الأول!"
+      - "ด้วยการเล่นที่ดีที่สุด\r\nท้าทายสู่อันดับหนึ่ง!"
+      - "Com a melhor peça\nDesafio ao primeiro lugar!"
+      - "En İyi Oyunla\nBirinciliğe Meydan Okuyun!"
+      - "Con la migliore giocata\nSfida al primo posto!"
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Review
+      TermType: 0
+      Languages:
+      - "Having fun? \nPlease leave us a review!"
+      - "재밌으신가요? \n리뷰를 남기면 개발사에 큰 도움이 됩니다!"
+      - 游戲是否有趣？評價游戲，將是給開發者的最大鼓勵！
+      - 游戏是否有趣？评价游戏，将是给开发者的最大鼓励！
+      - "楽しんでいますか?\nレビューを書いてください!"
+      - "Spaß haben? \n Bitte hinterlassen Sie uns eine Bewertung!"
+      - "¿Te diviertes? \n ¡Por favor, déjanos un comentario!"
+      - "S'amuser ? \n S'il vous plaît laissez-nous un avis !"
+      - "Веселиться? \n Пожалуйста, оставьте нам отзыв!"
+      - "Bersenang-senang?\nBeritahu kami perasaan Anda"
+      - "استمتع؟ \nيرجى ترك لنا مراجعة!"
+      - "ขอให้สนุก? \n กรุณาแสดงความคิดเห็นกับเรา!"
+      - "Está se divertindo? \n Deixe-nos um comentário!"
+      - "Eğlenmek? \n Lütfen bize bir inceleme bırak!"
+      - "Ti stai divertendo? \n Per favore lasciaci una recensione!"
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_ReviewLater
+      TermType: 0
+      Languages:
+      - Remind me later
+      - 나중에 평가하기
+      - 以後再告訴我
+      - 以后再告诉我
+      - 後でする
+      - Erinnere mich später
+      - Remind me later
+      - Me rappeler de lui plus tard
+      - Напомнить мне позже
+      - Ingatkan saya nanti
+      - ذكرني لاحقا
+      - เตือนฉันภายหลัง
+      - Lembra-me mais tarde
+      - Daha sonra hatırlat
+      - Ricordamelo più tardi
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_ReviewMessage
+      TermType: 0
+      Languages:
+      - Please Leave A Comment
+      - 의견을 남겨주세요
+      - 請發表評論
+      - 请发表评论
+      - コメントを残してください
+      - Bitte Lass Ein Kommentar Da
+      - Por Favor Deja Un Comentario
+      - Merci De Laisser Un Commentaire
+      - Пожалуйста, Оставьте Комментарий
+      - Silakan Tinggalkan Komentar
+      - يرجى ترك تعليق
+      - กรุณาแสดงความคิดเห็น
+      - Por Favor Deixe Um Comentário
+      - Lütfen Yorum Bırakın
+      - Si Prega Di Lasciare Un Commento
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_ReviewPopup
+      TermType: 0
+      Languages:
+      - Rate Us
+      - 평가하기
+      - 留下評價
+      - 留下评价
+      - レビュー
+      - Bewerte uns
+      - Valóranos
+      - Donnez-nous une note.
+      - Оценить нас
+      - Beri nilai kami
+      - قم بتقييمنا
+      - ให้คะแนนเรา
+      - Avalie-nos
+      - Bizi Değerlendir
+      - Valutaci
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_ReviewSubmit
+      TermType: 0
+      Languages:
+      - Submit
+      - 제출
+      - 提交
+      - 提交
+      - 送信
+      - Einreichen
+      - Entregar
+      - Soumettre
+      - отправлять
+      - Kirim
+      - يُقدِّم
+      - ส่ง
+      - Enviar
+      - Göndermek
+      - Invia
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Revive
+      TermType: 0
+      Languages:
+      - Revive
+      - 부활
+      - 恢復精力
+      - 复活
+      - 蘇生する
+      - Wiederbeleben
+      - Revivir
+      - Revive
+      - Оживить
+      - Hidupkan kembali
+      - اعادة احياء
+      - คืนชีพ
+      - Reanimar
+      - Canlan
+      - Riporta in vita
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Score
+      TermType: 0
+      Languages:
+      - Score
+      - 점수
+      - 分數
+      - 分数
+      - スコア
+      - Score
+      - Puntaje
+      - Score
+      - Очки
+      - Skor
+      - نتيجة
+      - คะแนน
+      - Pontuação
+      - Puan
+      - Punteggio
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    - Term: Ui_Setting
+      TermType: 0
+      Languages:
+      - Setting
+      - 설정
+      - 設定
+      - 设置
+      - 設定
+      - Einstellung
+      - Configuración
+      - Paramètres
+      - Настройки
+      - Pengaturan
+      - إعدادات
+      - ตั้งค่า
+      - Configurações
+      - Ayarlar
+      - Impostazioni
+      Flags:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: App_Name
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Chinese (Traditional)
+      Code: zh-TW
+      Flags: 0
+    - Name: Chinese (Simplified)
+      Code: zh-CN
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: French (France)
+      Code: fr-FR
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Arabic
+      Code: ar
+      Flags: 0
+    - Name: Thai
+      Code: th
+      Flags: 0
+    - Name: Portuguese (Brazil)
+      Code: pt-BR
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycby_J_AfgHvTxUYfPQ5WY1ZV5_wRCTzeRC2EBG7JU7CPkyrWQDKc/exec
+    Google_SpreadsheetKey: 1wSISBCYOerjisY3PkLXBxqxtYesWf3IBaK4Ub2zkA_g
+    Google_SpreadsheetName: I2Loc Suika Game Localization
+    Google_LastUpdatedVersion: 1704878163392
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 12800000, guid: affff3f924ef7f04780bb93a5651494e, type: 3}
+    - {fileID: 12800000, guid: c23e69d4aa5431346ac7dc03c2d9e530, type: 3}
+    - {fileID: 12800000, guid: 2139325c434e7664c8eecc5fac572366, type: 3}
+    - {fileID: 12800000, guid: 7fda0de0a797cd64d936858254914960, type: 3}
+    - {fileID: 12800000, guid: cb15d1e740f6e18439285ab5c3e723e6, type: 3}
+    - {fileID: 12800000, guid: ea935deb4eeda5a49a9d80c7d8493b2b, type: 3}
+    - {fileID: 11400000, guid: d98758de5aba4dc45be2091fa57607e0, type: 2}
+    - {fileID: 11400000, guid: 0ce71dff470095541905f51a2121de23, type: 2}
+    - {fileID: 11400000, guid: 3c29d596719e4ab478cedbe4b7b2b464, type: 2}
+    - {fileID: 12800000, guid: b674e91542fab964d80d8b25aa488de5, type: 3}
+    - {fileID: 11400000, guid: 131b65e388b57c54cbb111d5649d55bb, type: 2}
+    - {fileID: 11400000, guid: a4994a50bd341224fbee761315b74171, type: 2}
+    - {fileID: 11400000, guid: ab430c3cbac7a694f81f6ef8000a4f9b, type: 2}
+    - {fileID: 11400000, guid: da2d33d3f6bdf4641b76f612852c2ad1, type: 2}
+    - {fileID: 2100000, guid: 2aeb23fed5219734888a8e29808860bf, type: 2}
+    - {fileID: 2100000, guid: a7228675fdb9f8040a31f114d90c5e8a, type: 2}
+    - {fileID: 2100000, guid: b0a8fe2cbd1e852499fa1c56dca9dbac, type: 2}
+    - {fileID: 2100000, guid: 895970fc51ee474498c466f5dbecb6c9, type: 2}
+    - {fileID: 2100000, guid: 1235533abbc98ae4f81b50fde079a728, type: 2}
+    - {fileID: 2100000, guid: 2f0fd6bbd6e73524290c9f1c1c9a8d26, type: 2}
+    - {fileID: 2100000, guid: c3cadb0798f0eaf489f005d5c16f5939, type: 2}
+    - {fileID: 2100000, guid: 94269f3af39cef44ab0fb2d4c770540b, type: 2}
+    - {fileID: 2100000, guid: 186c59438f4767d4cb05c6f658d2e0e5, type: 2}
+    - {fileID: 2100000, guid: f3d437d3403426f468349f08387eefb3, type: 2}
+    - {fileID: 2100000, guid: 05c16ad54bf3473439798c78e34cdfa1, type: 2}
+    - {fileID: 2100000, guid: 8a1e873bdfbd09f4bb84c3c89dd7be80, type: 2}
+    - {fileID: 2100000, guid: f769a459bb373c643812b5682375e871, type: 2}
+    - {fileID: 2100000, guid: 1ff80826096411a44b90d84b3a399c0c, type: 2}
+    - {fileID: 2100000, guid: fe815b24fc507524ba8df3507bf3c227, type: 2}
+    - {fileID: 2100000, guid: d5e2c588c4c1a7f4b9072b99c7528498, type: 2}
+    - {fileID: 2100000, guid: 4fbe8efd88a813d428c16418965e2083, type: 2}
+    - {fileID: 2100000, guid: 3831524b2e97c7542a8d84d62fb0ea99, type: 2}
+    - {fileID: 2100000, guid: 97ea286a905b8964e9954a3708017f4f, type: 2}
+    - {fileID: 2100000, guid: 5af6515c29fd1bf4888f6d71675732e6, type: 2}
+    - {fileID: 2100000, guid: c9b1ddc4bbf76a845b6209db1d0cf8f0, type: 2}
